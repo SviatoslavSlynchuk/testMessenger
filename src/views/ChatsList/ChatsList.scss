@@ -1,0 +1,15 @@
+.chat-list-wrapper {
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+
+    .chats-list-container {
+        width: 100%;
+        flex: 1;
+        display: flex;
+        flex-direction: column;
+        padding: 0;
+        margin: 0;
+        background: #303030;
+    }
+}

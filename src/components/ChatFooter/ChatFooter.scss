@@ -1,0 +1,11 @@
+.chat-footer {
+    width: 100%;
+    height: 10%;
+    background: #212121;
+    color: #ffffff;
+    display: flex;
+
+    & > button {
+        flex: 1;
+    }
+}
